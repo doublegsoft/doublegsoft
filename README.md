@@ -223,6 +223,6 @@ home:page(title:"首页", navigable:"true", headless:"true", index:"1")<
 >
 ```
 
-## 辅助代码生成的GUX框架
+## GUIDBASE的落地辅助框架 GUX
 
 ![GUX](asset/image/gux.png)
